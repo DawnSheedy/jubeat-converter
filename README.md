@@ -1,6 +1,6 @@
 ## What is this
 
-This is a script for converting game files from jubeat to a format that my [Unity application](https://github.com/DawnSheedy/unity-rhythm) can understand.
+This is a quick (and very messy) script for converting game files from jubeat to a format that my [Unity application](https://github.com/DawnSheedy/unity-rhythm) can understand.
 
 ## How does it work:
 
