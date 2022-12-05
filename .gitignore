@@ -1,0 +1,7 @@
+input/
+output/
+imagein/
+imageout/
+temp/
+tmp/
+**/__pycache__/
